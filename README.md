@@ -20,5 +20,5 @@ PM: 이은지
 Html+sass/css
 Node+Veu+js..etc
 
-# -민족팀의 노션 일지-
+# -민족팀 일지(Notion)-
 링크 생성중
